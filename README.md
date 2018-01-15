@@ -21,3 +21,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * [Javascript30](http://javascript30.com) - Wes Bos, for the Javascript30 project
+* [Unsplash](https://unsplash.com/photos/BuiBnE4N31U) - Israel Palacio, for the background image
