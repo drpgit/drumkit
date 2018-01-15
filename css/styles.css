@@ -4,17 +4,19 @@ html {
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-	background-color: black;
 }
 
-body {
-	text-align: center;
+body, html {
+	margin: 0;
+	padding: 0;
+	height: 100%;
 }
 
 h1 {
 	font-family: 'Sedgwick Ave Display', cursive;
 	font-size: 5em;
 	color: #ffee7d;
+	text-align: center;
 }
 
 .keys {
@@ -38,6 +40,7 @@ h1 {
 	transition:all 0.07s;
 	background: rgba(255, 238, 125, 0.2);
 	display: block;
+	text-align: center;
 }
 
 .sound {
