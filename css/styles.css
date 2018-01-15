@@ -1,6 +1,9 @@
 html {
 	background: url(../assets/drums.jpg) bottom center;
 	background-size: cover;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 	background-color: black;
 }
 
